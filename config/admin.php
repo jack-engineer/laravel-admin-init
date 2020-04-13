@@ -302,6 +302,9 @@ return [
     */
     'login_background_image' => '',
 
+    // 是否显示footer 
+    'show_footer' => false,
+
     /*
     |--------------------------------------------------------------------------
     | Show version at footer
